@@ -25,15 +25,16 @@ body {
 /* Right-side message styling */
 .my-message {
   position: absolute;
-  top: 200px;
+  top: 100px;
   right: 100px;
-  left : 400px;
+  left : 300px;
   color: #fff;
   font-size: 1.2rem; /* Adjust to your liking */
-  font-family: Arial, sans-serif;
+  font-family: cursive;
   max-width: 600px;  /* So it doesn’t stretch too wide */
-  line-height: 2.3;
+  line-height: 2.0;
 }
+
 
 /* The night background blur */
 .night {
